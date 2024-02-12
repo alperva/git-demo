@@ -2,6 +2,5 @@
 
 This is the first file.
 
-## Second level of heading
-
-Deneme 1-2-3-4. 
+## Website Contents
+Yeni web sayfası eklendi.
